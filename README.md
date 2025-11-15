@@ -1,4 +1,29 @@
-## Hi there 👋
+# Hi, I'm Enzo 👋
+
+Developing expertise in **Python, JavaScript, and blockchain engineering**, focusing on **smart contracts** and **security fundamentals**.
+
+---
+
+## 📚 Learning Path
+1. Python fundamentals  
+2. JavaScript development  
+3. Blockchain architecture  
+4. Smart contracts (Solidity)  
+5. Security best practices
+
+---
+
+## 🔧 Active Repositories
+- **notes-technique**  
+- **sandbox**  
+- **roadmap**
+
+---
+
+## 🚀 Goals
+- Launch first professional open-source project  
+- Build strong, long-term technical expertise
+
 
 <!--
 **EnzoP-Blockchain/EnzoP-Blockchain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
